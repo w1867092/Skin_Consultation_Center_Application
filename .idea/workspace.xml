@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc3bd1ec-9e72-4031-8e0b-35a91c80e54e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcalendar_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WestminsterSkinConsultationManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Untitled-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/close-icon-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/doctor-patient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/doctor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/home (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/home (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/icons8-close-window-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/icons8-home-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/outline_home_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/toLoad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/wrweere1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/jcalendar-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/Consultation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/ConsultationGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/DoctorsGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/MyHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/ShowConsultationDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/SkinConsultationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestminsterSkinConsultationManager/WestminsterSkinConsultationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teatCase/TestCases.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JMxe5QByUR5tgdaTV7N9ginVhq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/w1867092_arrays_only&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\L5 Java\WestminsterSkinConsultationManager\src\Library" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="WestminsterSkinConsultationManager" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AddCon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WestminsterSkinConsultationManager.AddCon" />
+      <module name="WestminsterSkinConsultationManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WestminsterSkinConsultationManager.Main" />
+      <module name="WestminsterSkinConsultationManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoctorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WestminsterSkinConsultationManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WestminsterSkinConsultationManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WestminsterSkinConsultationManager" />
+      <option name="MAIN_CLASS_NAME" value="WestminsterSkinConsultationManager.DoctorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoctorTest.getMedicalLicenceNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WestminsterSkinConsultationManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WestminsterSkinConsultationManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WestminsterSkinConsultationManager" />
+      <option name="MAIN_CLASS_NAME" value="WestminsterSkinConsultationManager.DoctorTest" />
+      <option name="METHOD_NAME" value="getMedicalLicenceNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.test2_testAddNewDoctor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WestminsterSkinConsultationManager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="test2_testAddNewDoctor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestCases.test2_testAddNewDoctor" />
+        <item itemvalue="JUnit.DoctorTest.getMedicalLicenceNumber" />
+        <item itemvalue="JUnit.DoctorTest" />
+        <item itemvalue="Application.AddCon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3bd1ec-9e72-4031-8e0b-35a91c80e54e" name="Changes" comment="" />
+      <created>1671901850742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671901850742</updated>
+      <workItem from="1671901858134" duration="16051000" />
+      <workItem from="1671949339692" duration="4870000" />
+      <workItem from="1671992524009" duration="8489000" />
+      <workItem from="1672029490046" duration="24003000" />
+      <workItem from="1672111478864" duration="758000" />
+      <workItem from="1672166374640" duration="9800000" />
+      <workItem from="1672218311952" duration="20728000" />
+      <workItem from="1672294229356" duration="7195000" />
+      <workItem from="1672328311845" duration="2633000" />
+      <workItem from="1672379105354" duration="1269000" />
+      <workItem from="1672470328176" duration="120000" />
+      <workItem from="1672484240932" duration="20523000" />
+      <workItem from="1672516180741" duration="9734000" />
+      <workItem from="1672564993160" duration="4662000" />
+      <workItem from="1672727645213" duration="680000" />
+      <workItem from="1672818390877" duration="23060000" />
+      <workItem from="1672858975391" duration="1456000" />
+      <workItem from="1672894645632" duration="50306000" />
+      <workItem from="1672980731792" duration="15095000" />
+      <workItem from="1673069379994" duration="2301000" />
+      <workItem from="1673078118783" duration="19546000" />
+      <workItem from="1673125054959" duration="2848000" />
+      <workItem from="1673146957825" duration="23009000" />
+      <workItem from="1679571642138" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
